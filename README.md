@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/557e6c16-eabf-4ed0-a5bf-5bf11f3524db/thumbnail" >
+</p>
 
 <!--
 **shinrin-yoku92/shinrin-yoku92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
