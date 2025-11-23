@@ -25,7 +25,7 @@ I’m an **aspiring backend developer** with a growing passion for building APIs
 
 Here are a few of my key repositories that reflect where I’m heading in my backend dev journey:
 
-- **BootDev-API** — A backend API for handling users and posts (“chirps”). This is my playground for building RESTful endpoints, authentication, and working with persistence.  
+- **Chirpy** — A backend API for handling users and posts (“chirps”). This is my playground for building RESTful endpoints, authentication, and working with persistence.  
 - **Pokedex** — A fun project for exploring data-driven design: retrieving, storing, and presenting Pokémon data.  
 
 ---
