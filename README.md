@@ -1,8 +1,8 @@
 # 🌲 shinrin‑yoku92
 
-[![GitHub Followers](https://img.shields.io/github/followers/shinrin-yoku92?style=social)](https://github.com/shinrin-yoku92)  
-[![GitHub Stars](https://img.shields.io/github/stars/shinrin-yoku92?style=social)](https://github.com/shinrin-yoku92)  
-[![Profile Views](https://komarev.com/ghpvc/?username=shinrin-yoku92)](https://github.com/shinrin-yoku92)
+<!--[![GitHub Followers](https://img.shields.io/github/followers/shinrin-yoku92?style=social)](https://github.com/shinrin-yoku92)
+[![GitHub Stars](https://img.shields.io/github/stars/shinrin-yoku92?style=social)](https://github.com/shinrin-yoku92)
+[![Profile Views](https://komarev.com/ghpvc/?username=shinrin-yoku92)](https://github.com/shinrin-yoku92)-->
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/557e6c16-eabf-4ed0-a5bf-5bf11f3524db/thumbnail" >
