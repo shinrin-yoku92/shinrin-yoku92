@@ -12,12 +12,12 @@
 
 ## 👋 About Me
 
-Hey there — I’m **Jordan** (also known online as *shinrin-yoku92*).  
-I’m an **aspiring backend developer** with a growing passion for building APIs, services, and robust server-side applications.
+Hello there! I’m **Jordan** (also known online as *shinrin-yoku92*).  
+I’m an aspiring backend developer with a growing passion for building APIs, services, and robust server-side applications.  
 
-- 💻 Languages I’m currently working with: **Python** & **Go**  
+- 💻 Languages I’m currently working with: **Python** & **Go**. Looking to start exploring **Rust** soonTM  
 - 🌱 Exploring: cloud-native architectures, microservices, and clean code principles  
-- 📚 Interests: APIs, databases (SQL & NoSQL), automation, and developer tooling
+- 📚 Interests: APIs, databases (SQL & NoSQL), automation, and developer tooling  
 
 ---
 
@@ -25,8 +25,9 @@ I’m an **aspiring backend developer** with a growing passion for building APIs
 
 Here are a few of my key repositories that reflect where I’m heading in my backend dev journey:
 
-- **Chirpy** — A backend API for handling users and posts (“chirps”). This is my playground for building RESTful endpoints, authentication, and working with persistence.  
-- **Pokedex** — A fun project for exploring data-driven design: retrieving, storing, and presenting Pokémon data.  
+- **Chirpy** - A backend API for handling users and posts (“chirps”). This is my playground for building RESTful endpoints, authentication, and working with persistence.  
+- **Pokedex** - A fun project for exploring data-driven design: retrieving, storing, and presenting Pokémon data.  
+- **mealPlan** - A REPL CLI app designed to store meals locally and produce a random meal plan for *X* amount of days.  
 
 ---
 
@@ -69,8 +70,6 @@ Here are some live stats from my GitHub activity:
 
 - GitHub: [shinrin-yoku92](https://github.com/shinrin-yoku92)  
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jordan-feast-44753017b/) 
-
-> *“Growing backend skills one API at a time.”*
 
 ---
 
